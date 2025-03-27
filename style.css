@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://as1.ftcdn.net/v2/jpg/03/47/38/70/1000_F_347387030_8ki4ehUd4GwpKQDyt3u81RI6vMCbUZpT.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1{
+    text-align: center;
+    font-size:  5em;
+    background-image: url("https://as1.ftcdn.net/v2/jpg/03/47/38/70/1000_F_347387030_8ki4ehUd4GwpKQDyt3u81RI6vMCbUZpT.jpg");
+
+}
+
+#checkbutton{
+    font-size: 2em;
+}
+
+#numberinput{
+    font-size: 2em;
+}
+
+#newgame{
+    font-size: 2em;
+}
+
+p{
+    font-size: 2.5em;
+}
+
+#message{
+    font-size: 2.5em;
+}
+
+iframe{
+    display: flex;
+    align-items: center;
+    align-self: center;
+}
