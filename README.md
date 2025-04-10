@@ -1,1 +1,2 @@
 # Zahlenraten_Azure
+Deploy Status badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/542d7b59-5917-4ff9-baff-ada10bf20670/deploy-status)](https://app.netlify.com/sites/tiny-brigadeiros-3b0ba6/deploys)
